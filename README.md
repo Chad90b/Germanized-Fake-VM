@@ -1,3 +1,6 @@
+note: everything below this line in the README was written by the original author (Germanized), from whom this repository is forked.
+
+
 # 🖥️ **VMFake: The Ultimate Virtual Machine Simulation Tool!** 🖥️
 
 Welcome to **VMFake**, the coolest, most powerful tool for simulating a virtual machine environment right from your Python script! 🎉 Whether you’re a developer, a security researcher, or just a curious tech enthusiast, you’ve come to the right place! 
